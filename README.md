@@ -32,16 +32,16 @@ The application renders a 3D representation of the Earth and the Moon. These are
 
 The user can rotate the camera around the Earth by clicking and drawing the cursor. Additionally, scrolling up and down it is possible to adjust the distance of the camera from the Earth.
 
-![environment](/Users/rauliglesias/Documents/Dev/3js/3JS/public/environment.gif)
+![environment](https://github.com/Raulif/3JS/blob/master/3JS/public/environment.gif)
 
 
 
 Using the control panel on the top-right corner, it is possible to adjust the speed of the rotation of the Earth and Moon, both on their X and Y axis, imitating the real movement of celestial bodies.
 
-![rotation](/Users/rauliglesias/Documents/Dev/3js/3JS/public/rotation.gif)
+![rotation](https://github.com/Raulif/3JS/blob/master/3JS/public/rotation.gif)
 
 
 
 Lastly, the user can set the translation movement of the Moon around the Earth. The controls allow adjusting the speed of the rotation on the X and Y axis. If the camera is too close to the Earth, the Moon will move outside of the scope of view.
 
-![translation](/Users/rauliglesias/Documents/Dev/3js/3JS/public/translation.gif)
+![translation](https://github.com/Raulif/3JS/blob/master/3JS/public/translation.gif)
