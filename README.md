@@ -1,10 +1,14 @@
 # 3JS - 3D space
 
+
+
 ### Contents
 
 * [Overview](#overview)
 * [Tech stack](#tech-stack)
 * [Description](#description)
+
+
 
 
 
@@ -16,6 +20,8 @@
 The goal of the project was to learn how to ThreeJS, a javascript library that allows creating and rendering 3D shapes directly in the browser.
 
 **Time frame:** 1 day
+
+
 
 
 
